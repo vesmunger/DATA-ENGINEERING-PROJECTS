@@ -1,5 +1,3 @@
-## # Data Engineering Portfolio
-
 This repository contains multiple data engineering projects demonstrating ETL, web scraping, data streaming, and workflow automation skills:
 
 1. **Faker Data Generator** – Generate synthetic datasets for testing ML pipelines.
