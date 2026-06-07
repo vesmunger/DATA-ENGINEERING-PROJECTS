@@ -33,9 +33,9 @@
 ---
 
 ## Overview
-This repository contains a collection of **data engineering projects** demonstrating skills in ETL/ELT pipelines, API integration, real-time streaming, data transformation, and storage. Projects showcase Python, SQL, Pandas, MongoDB, Airflow, Kafka, and cloud platforms like AWS and Azure.  
+This repository contains a collection of **data engineering projects** :ETL/ELT pipelines, API integration, real-time streaming, data transformation, and storage. Projects showcase Python, SQL, Pandas, MongoDB, Airflow, Kafka, and cloud platforms, AWS and Azure.  
 
-The projects are organized to reflect **real-world scenarios**, including financial, weather, and general-purpose datasets.
+The projects are somehow organized to reflect **real-world scenarios**, including financial, weather, and general-purpose datasets.
 
 ---
 
